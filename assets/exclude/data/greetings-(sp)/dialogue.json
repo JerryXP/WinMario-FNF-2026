@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why am I in space?"
+		},
+		{
+			"sound": "oliver",
+			"speed": 0.05,
+			"portrait": "oliver",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh Hi Windows Mario"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello Oliver"
+		},
+		{
+			"sound": "oliver",
+			"speed": 0.05,
+			"portrait": "oliver",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just saw through the Portal, I know why you are here, Let’s go."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Note: This is Oliver Gaming not actually Oliver, Please do not get confused."
+		}
+	]
+}

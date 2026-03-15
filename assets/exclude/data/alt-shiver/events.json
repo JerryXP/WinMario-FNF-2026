@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				23396.2264150943,
+				[
+					[
+						"BlackScreen",
+						"Add",
+						"game"
+					]
+				]
+			],
+			[
+				24095.9119496855,
+				[
+					[
+						"Change Character",
+						"gf",
+						"unknown"
+					]
+				]
+			],
+			[
+				24150.9433962264,
+				[
+					[
+						"BlackScreen",
+						"Remove",
+						"game"
+					]
+				]
+			],
+			[
+				24158.8050314465,
+				[
+					[
+						"Change Character",
+						"dad",
+						"monster"
+					]
+				]
+			],
+			[
+				132838.050314466,
+				[
+					[
+						"BlackScreen",
+						"Add",
+						"game"
+					]
+				]
+			],
+			[
+				134339.62264151,
+				[
+					[
+						"BlackScreen",
+						"Remove",
+						"game"
+					]
+				]
+			],
+			[
+				134343.55345912,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bf-spooky"
+					]
+				]
+			],
+			[
+				134351.41509434,
+				[
+					[
+						"Change Character",
+						"GF",
+						"gf-spooky"
+					]
+				]
+			]
+		]
+	}
+}
