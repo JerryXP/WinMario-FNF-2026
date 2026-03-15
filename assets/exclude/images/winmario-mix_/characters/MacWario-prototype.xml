@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WindowsMarioPLAY.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="2120" y="2141" width="557" height="289" frameX="-26" frameY="-285" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Idle0001" x="1562" y="2141" width="558" height="307" frameX="-25" frameY="-262" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Idle0002" x="1004" y="2141" width="558" height="414" frameX="-25" frameY="-151" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Idle0003" x="1591" y="1615" width="558" height="473" frameX="-25" frameY="-90" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Idle0004" x="1150" y="0" width="559" height="539" frameX="-24" frameY="-21" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Left0000" x="2777" y="533" width="474" height="509" frameX="-69" frameY="-41" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Left0001" x="2777" y="1042" width="474" height="509" frameX="-100" frameY="-42" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Left0002" x="2777" y="1551" width="474" height="509" frameX="-114" frameY="-42" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Down0000" x="2260" y="542" width="489" height="563" frameX="-50" frameY="-18" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Down0001" x="2260" y="0" width="517" height="542" frameX="-56" frameY="-25" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Down0002" x="1709" y="532" width="551" height="525" frameX="-49" frameY="-44" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Up0000" x="497" y="2141" width="507" height="478" frameX="-61" frameY="-71" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Up0001" x="2260" y="1631" width="513" height="498" frameX="-58" frameY="-49" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Up0002" x="2260" y="1105" width="513" height="526" frameX="-53" frameY="-19" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Right0000" x="3261" y="1948" width="431" height="480" frameX="-90" frameY="-58" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Right0001" x="3261" y="986" width="435" height="480" frameX="-86" frameY="-58" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Right0002" x="3261" y="2428" width="431" height="480" frameX="-90" frameY="-58" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Scared0000" x="1709" y="0" width="551" height="532" frameX="-32" frameY="-27" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Scared0001" x="1150" y="539" width="553" height="532" frameX="-32" frameY="-27" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Scared0002" x="575" y="551" width="567" height="532" frameX="-32" frameY="-27" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Missleft0000" x="556" y="1615" width="523" height="519" frameX="-55" frameY="-46" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Missleft0001" x="0" y="2141" width="497" height="525" frameX="-60" frameY="-40" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Missleft0002" x="1079" y="1615" width="512" height="519" frameX="-55" frameY="-46" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Missleft0003" x="2777" y="0" width="484" height="533" frameX="-56" frameY="-31" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Crydown0000" x="0" y="1102" width="579" height="513" frameX="-21" frameY="-52" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Crydown0001" x="579" y="1102" width="579" height="510" frameX="-21" frameY="-55" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Crydown0002" x="0" y="1615" width="556" height="526" frameX="-30" frameY="-37" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Crydown0003" x="1709" y="1057" width="519" height="540" frameX="-57" frameY="-30" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="upset0000" x="1158" y="1102" width="515" height="487" frameX="-45" frameY="-60" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="upset0001" x="0" y="2666" width="485" height="487" frameX="-45" frameY="-60" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="upset0002" x="3261" y="0" width="450" height="500" frameX="-86" frameY="-43" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="upset0003" x="2777" y="2060" width="434" height="534" frameX="-82" frameY="-34" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Uncool0000" x="3261" y="1466" width="431" height="482" frameX="-90" frameY="-56" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Uncool0001" x="485" y="2666" width="429" height="478" frameX="-90" frameY="-56" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Uncool0002" x="3261" y="500" width="449" height="486" frameX="-65" frameY="-49" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="Uncool0003" x="0" y="3153" width="457" height="488" frameX="-50" frameY="-48" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="V Pose0000" x="0" y="0" width="575" height="551" frameX="-19" frameY="-18" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="V Pose0001" x="575" y="0" width="575" height="551" frameX="-19" frameY="-18" frameWidth="598" frameHeight="598"/>
+	<SubTexture name="V Pose0002" x="0" y="551" width="575" height="551" frameX="-19" frameY="-18" frameWidth="598" frameHeight="598"/>
+</TextureAtlas>
