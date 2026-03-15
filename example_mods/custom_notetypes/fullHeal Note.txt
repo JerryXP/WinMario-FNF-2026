@@ -1,0 +1,6 @@
+texture = "noteassetshit/FHEALNOTE_assets"
+noteSplashData.texture = "noteassetshit/splash/healSplash"
+hitHealth = 2
+missHealth = 0
+ignoreNote = true
+rgbShader.enabled = false

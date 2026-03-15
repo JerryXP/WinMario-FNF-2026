@@ -1,0 +1,4 @@
+missHealth = 2
+noteSplashData.texture = "noteassetshit/splash/blamSplash"
+texture = "noteassetshit/BLAMNOTE_assets"
+rgbShader.enabled = false

@@ -1,0 +1,7 @@
+texture = "noteassetshit/PHANOTE_assets"
+hitCausesMiss = true
+ignoreNote = true
+lowPriority = true
+
+
+

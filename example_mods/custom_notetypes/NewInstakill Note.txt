@@ -1,0 +1,9 @@
+texture = "noteassetshit/KILLNOTE_assets"
+hitCausesMiss = true
+ignoreNote = true
+lowPriority = true
+hitHealth = 0
+missHealth = 2
+noteSplashData.texture = "noteSplashes/noteSplashes-electric"
+rgbShader.enabled = false
+
